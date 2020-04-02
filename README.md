@@ -1,2 +1,2 @@
 # Spotify-page
-A home page Spotify and login made with pure HTML and CSS
+A Sign Up page and login of Spotify made with pure HTML and CSS
